@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <ReposModsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <GameModifications>
-    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA.xml</string>
+  <GameModifications>    
     <string>https://raw.githubusercontent.com/AlexeiStukov1/The-End-of-Days/master/THE%20END%20OF%20DAYS.xml</string>
     <string>https://raw.githubusercontent.com/Andreas-W/ofs/master/OPERATION%20FIRESTORM.xml</string>
     <string>https://raw.githubusercontent.com/ZekeDlyoung/Zero-Hour-Reborn/master/ZERO%20HOUR%20REBORN.xml</string>
@@ -10,5 +9,13 @@
     <string>https://raw.githubusercontent.com/Knjaz136/BPNewLauncher/master/BALANCE%20PATCH.xml</string>
     <string>https://raw.githubusercontent.com/ZekeDlyoung/Bengs-Shrubbery-Fix/master/BENG'S%20SHRUBERRY%20FIX.xml</string>
     <string>https://raw.githubusercontent.com/alanblack166/ROTR-Navy-Maps/master/ROTR%20NAVY%20MAPS.xml</string>
+    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA.xml</string>
+    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20ENGLISH%20LANGUAGE%20AND%20LEIKEZE%20HOTKEYS.xml</string>
+    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20FOG%20EFFECTS%20DISABLER.xml</string>
+    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20FUNNY%20PORTRAITS.xml</string>
+    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20NATIVE%20UNIT%20VOICES.xml</string>
+    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20RUSSIAN%20LANGUAGE%20AND%20LEGACY%20HOTKEYS.xml</string>
+    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20RUSSIAN%20LANGUAGE%20AND%20LEIKEZE%20HOTKEYS.xml</string>
+    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20WATER%20EFFECTS%20DISABLER.xml</string>
   </GameModifications>
 </ReposModsData>
