@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <ReposModsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LauncherVersion>0.0.0.4 Pre-Alfa</LauncherVersion>
-  <DownloadLink>https://www.dropbox.com/s/h5ln8zijuclhp9t/GenLauncher.7z?dl=1</DownloadLink>
+  <LauncherVersion>0.0.0.4B Pre-Alfa</LauncherVersion>
+  <DownloadLink>https://www.dropbox.com/s/cdp7r1uwdxpntm6/GenLauncher.7z?dl=1</DownloadLink>
   <GameModifications>    
     <string>https://raw.githubusercontent.com/AlexeiStukov1/The-End-of-Days/master/THE%20END%20OF%20DAYS.xml</string>
     <string>https://raw.githubusercontent.com/Andreas-W/ofs/master/OPERATION%20FIRESTORM.xml</string>
