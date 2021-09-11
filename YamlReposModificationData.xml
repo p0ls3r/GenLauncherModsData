@@ -1,8 +1,14 @@
 <?xml version="1.0"?>
 <ReposModsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LauncherVersion>0.0.1.2 Public-Alfa</LauncherVersion>
-  <DownloadLink>https://www.dropbox.com/s/wa84thixwz1439s/GenLauncher12.7z?dl=1</DownloadLink>
+  <LauncherVersion>0.0.1.3 Public-Alfa</LauncherVersion>
+  <DownloadLink>https://www.dropbox.com/s/np08qu2gqfutc88/GenLauncher13.7z?dl=1</DownloadLink>
   <GameModifications>
-    <string>https://raw.githubusercontent.com/p0ls3r/GenLauncherModsData/master/Test.yaml</string>
+    <string>https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/RISE%20OF%20THE%20REDS.yaml</string>
+    <string>https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/HANPATCH.yaml</string>
+    <string>https://raw.githubusercontent.com/AlexeiStukov1/The-End-of-Days/master/THE%20END%20OF%20DAYS.yaml</string>
+    <string>https://raw.githubusercontent.com/Andreas-W/ofs/master/OPERATION_FIRESTORM.yaml</string>
+    <string>https://raw.githubusercontent.com/ZekeDlyoung/Zero-Hour-Reborn/master/ZERO%20HOUR%20REBORN.yaml</string>
+    <string>https://raw.githubusercontent.com/Generalcamo/del-launcher-xml/master/C%26C%20SHOCKWAVE.yaml</string>
+    <string>https://raw.githubusercontent.com/Generalcamo/del-launcher-xml/master/C%26C%20SHOCKWAVE%20CLASSIC%20CAMEOS.yaml</string>
   </GameModifications>
 </ReposModsData>
