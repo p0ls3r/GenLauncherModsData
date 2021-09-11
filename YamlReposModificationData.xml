@@ -4,7 +4,7 @@
   <DownloadLink>https://www.dropbox.com/s/np08qu2gqfutc88/GenLauncher13.7z?dl=1</DownloadLink>
   <GameModifications>
     <string>https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/RISE%20OF%20THE%20REDS.yaml</string>
-    <string>https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/HANPATCH.yaml</string>
+    <string>https://raw.githubusercontent.com/alanblack166/hanpatch-manifest/master/HANPATCH.yaml</string>
     <string>https://raw.githubusercontent.com/AlexeiStukov1/The-End-of-Days/master/THE%20END%20OF%20DAYS.yaml</string>
     <string>https://raw.githubusercontent.com/Andreas-W/ofs/master/OPERATION_FIRESTORM.yaml</string>
     <string>https://raw.githubusercontent.com/ZekeDlyoung/Zero-Hour-Reborn/master/ZERO%20HOUR%20REBORN.yaml</string>
