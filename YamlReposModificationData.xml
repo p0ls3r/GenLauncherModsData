@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ReposModsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LauncherVersion>0.0.1.2 Public-Alfa</LauncherVersion>
+  <DownloadLink>https://www.dropbox.com/s/wa84thixwz1439s/GenLauncher12.7z?dl=1</DownloadLink>
+  <GameModifications>
+    <string>https://raw.githubusercontent.com/AlexeiStukov1/The-End-of-Days/master/THE%20END%20OF%20DAYS.xml</string>
+  </GameModifications>
+</ReposModsData>
