@@ -3,24 +3,13 @@
   <LauncherVersion>0.0.1.2 Public-Alfa</LauncherVersion>
   <DownloadLink>https://www.dropbox.com/s/wa84thixwz1439s/GenLauncher12.7z?dl=1</DownloadLink>
   <GameModifications>
-    <string>https://raw.githubusercontent.com/AlexeiStukov1/The-End-of-Days/master/THE%20END%20OF%20DAYS.xml</string>
-    <string>https://raw.githubusercontent.com/Andreas-W/ofs/master/OPERATION%20FIRESTORM.xml</string>
-    <string>https://raw.githubusercontent.com/ZekeDlyoung/Zero-Hour-Reborn/master/ZERO%20HOUR%20REBORN.xml</string>
-    <string>https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/RISE%20OF%20THE%20REDS.xml</string>
-    <string>https://raw.githubusercontent.com/alanblack166/hanpatch-manifest/master/Hanpatch.xml</string>
-    <string>https://raw.githubusercontent.com/Knjaz136/BPNewLauncher/master/BALANCE%20PATCH.xml</string>
-    <string>https://raw.githubusercontent.com/ZekeDlyoung/Bengs-Shrubbery-Fix/master/BENG'S%20SHRUBERRY%20FIX.xml</string>
-    <string>https://raw.githubusercontent.com/alanblack166/ROTR-Navy-Maps/master/ROTR%20NAVY%20MAPS.xml</string>
-    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA.xml</string>
-    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20ENGLISH%20LANGUAGE%20AND%20LEIKEZE%20HOTKEYS.xml</string>
-    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20FOG%20EFFECTS%20DISABLER.xml</string>
-    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20FUNNY%20PORTRAITS.xml</string>
-    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20NATIVE%20UNIT%20VOICES.xml</string>
-    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20RUSSIAN%20LANGUAGE%20AND%20LEGACY%20HOTKEYS.xml</string>
-    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20RUSSIAN%20LANGUAGE%20AND%20LEIKEZE%20HOTKEYS.xml</string>
-    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20WATER%20EFFECTS%20DISABLER.xml</string>
-    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA%20NEW%20MUSIC.xml</string>
-    <string>https://raw.githubusercontent.com/Generalcamo/del-launcher-xml/master/C%26C%20SHOCKWAVE.XML</string>
-    <string>https://raw.githubusercontent.com/Generalcamo/del-launcher-xml/master/SHOCKWAVE%20CLASSIC%20CAMEOS.xml</string>
+    <string>https://raw.githubusercontent.com/p0ls3r/GenLauncherModsData/master/Test.yaml</string>
+    <string>https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/RISE%20OF%20THE%20REDS.yaml</string>
+    <string>https://raw.githubusercontent.com/AlexeiStukov1/The-End-of-Days/master/THE%20END%20OF%20DAYS.yaml</string>
+    <string>https://raw.githubusercontent.com/Andreas-W/ofs/master/OPERATION_FIRESTORM.yaml</string>
+    <string>https://raw.githubusercontent.com/ZekeDlyoung/Zero-Hour-Reborn/master/ZERO%20HOUR%20REBORN.yaml</string>
+    <string>https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA.yaml</string>
+    <string>https://raw.githubusercontent.com/ECBVovin/Shockwave-Chaos-Mod/master/SHOCKWAVE%20CHAOS%20MOD.yaml</string>
+    <string>https://raw.githubusercontent.com/Knjaz136/TEOD/master/TEOD%20PERFORMANCE%20PATCH.yaml</string>
   </GameModifications>
 </ReposModsData>
