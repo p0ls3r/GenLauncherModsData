@@ -1,0 +1,21 @@
+modDatas:
+- ModLink: https://raw.githubusercontent.com/ThePredatorBG/Contra/master/CONTRA.yaml
+  ModPatches:
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/ENGLISH%20LANGUAGE%20AND%20LEIKEZE%20HOTKEYS.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/RUSSIAN%20LANGUAGE%20AND%20LEGACY%20HOTKEYS.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/RUSSIAN%20LANGUAGE%20AND%20LEIKEZE%20HOTKEYS.yaml
+  ModAddons:
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/WATER%20EFFECTS%20DISABLER.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/NATIVE%20UNIT%20VOICES.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/FUNNY%20PORTRAITS.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/NEW%20MUSIC.yaml
+  - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/ControlBarPro-Contra.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/FOG%20EFFECTS%20DISABLER.yaml
+- ModLink: https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/RISE%20OF%20THE%20REDS.yaml
+  ModPatches:
+  - https://raw.githubusercontent.com/alanblack166/hanpatch-manifest/master/HANPATCH.yaml
+  - https://raw.githubusercontent.com/Knjaz136/BPNewLauncher/master/BALANCE%20PATCH.yaml
+  ModAddons:
+  - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/ControlBarPro-Rotr.yaml
+LauncherVersion: 0.0.2.4 Public Alpha
+DownloadLink: Test
