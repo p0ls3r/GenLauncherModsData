@@ -17,5 +17,7 @@ modDatas:
   - https://raw.githubusercontent.com/Knjaz136/BPNewLauncher/master/BALANCE%20PATCH.yaml
   ModAddons:
   - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/ControlBarPro-Rotr.yaml
+globalAddonsData:
+- https://raw.githubusercontent.com/Haubibban/TEOD-Russifier-Repo/master/CYRILLIC%20CHAT%20SUPPORT.yaml
 LauncherVersion: 0.0.2.4 Public Alpha
 DownloadLink: Test
