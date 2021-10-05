@@ -43,7 +43,10 @@ modDatas:
 - ModLink: https://raw.githubusercontent.com/ZekeDlyoung/Zero-Hour-Reborn/master/ZERO%20HOUR%20REBORN.yaml
   ModPatches: []
   ModAddons: []
+- ModLink: https://raw.githubusercontent.com/ZekeDlyoung/N-Project-Mod/master/NPROJECT_MOD.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData:
 - https://raw.githubusercontent.com/Haubibban/TEOD-Russifier-Repo/master/CYRILLIC%20CHAT%20SUPPORT.yaml
-LauncherVersion: 0.0.2.5 Public Alpha
-DownloadLink: https://www.dropbox.com/s/guvpuemqe2pdhk5/GenLauncher25.rar?dl=1
+LauncherVersion: 0.0.2.4 Public Alpha
+DownloadLink: Test
