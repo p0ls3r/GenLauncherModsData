@@ -17,6 +17,32 @@ modDatas:
   - https://raw.githubusercontent.com/Knjaz136/BPNewLauncher/master/BALANCE%20PATCH.yaml
   ModAddons:
   - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/ControlBarPro-Rotr.yaml
+- ModLink: https://raw.githubusercontent.com/AlexeiStukov1/The-End-of-Days/master/THE%20END%20OF%20DAYS.yaml
+  ModPatches: []
+  ModAddons:
+  - https://raw.githubusercontent.com/Knjaz136/TEOD/master/TEOD%20PERFORMANCE%20PATCH.yaml
+  - https://raw.githubusercontent.com/Haubibban/TEOD-Russifier-Repo/master/CONTROL%20BAR%20PRO.yaml
+  - https://raw.githubusercontent.com/Haubibban/TEOD-Russifier-Repo/master/RUSSIAN%20LANGUAGE%20-%20%D0%A0%D0%A3%D0%A1%D0%A1%D0%9A%D0%98%D0%99%20%D0%AF%D0%97%D0%AB%D0%9A.yaml
+- ModLink: https://raw.githubusercontent.com/Generalcamo/del-launcher-xml/master/C%26C%20SHOCKWAVE.yaml
+  ModPatches:
+  - https://raw.githubusercontent.com/Generalcamo/del-launcher-xml/master/C%26C%20SHOCKWAVE%20PUBLIC%20BETA.yaml
+  ModAddons:
+  - https://raw.githubusercontent.com/Generalcamo/del-launcher-xml/master/C%26C%20SHOCKWAVE%20CLASSIC%20CAMEOS.yaml
+  - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/ControlBarPro-Shockwave.yaml
+- ModLink: https://raw.githubusercontent.com/ZekeDlyoung/CnC-Untitled/master/C%26C%20UNTITLED.yaml
+  ModPatches: []
+  ModAddons:
+  - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/ControlBarPro-Untitled.yaml
+  - https://raw.githubusercontent.com/ZekeDlyoung/CnC-Untitled/master/C%26C%20UNTITLED%20ENB%20ADDON%20(CONFLICTS%20WITH%20GENTOOL).yaml
+- ModLink: https://raw.githubusercontent.com/Andreas-W/ofs/master/OPERATION_FIRESTORM.yaml
+  ModPatches: []
+  ModAddons: []
+- ModLink: https://raw.githubusercontent.com/ECBVovin/Shockwave-Chaos-Mod/master/SHOCKWAVE%20CHAOS%20MOD.yaml
+  ModPatches: []
+  ModAddons: []
+- ModLink: https://raw.githubusercontent.com/ZekeDlyoung/Zero-Hour-Reborn/master/ZERO%20HOUR%20REBORN.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData:
 - https://raw.githubusercontent.com/Haubibban/TEOD-Russifier-Repo/master/CYRILLIC%20CHAT%20SUPPORT.yaml
 LauncherVersion: 0.0.2.4 Public Alpha
