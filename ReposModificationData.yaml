@@ -48,5 +48,5 @@ modDatas:
   ModAddons: []
 globalAddonsData:
 - https://raw.githubusercontent.com/Haubibban/TEOD-Russifier-Repo/master/CYRILLIC%20CHAT%20SUPPORT.yaml
-LauncherVersion: 0.0.2.4 Public Alpha
-DownloadLink: Test
+LauncherVersion: 0.0.2.5 Public Alpha
+DownloadLink: https://www.dropbox.com/s/guvpuemqe2pdhk5/GenLauncher25.rar?dl=1
