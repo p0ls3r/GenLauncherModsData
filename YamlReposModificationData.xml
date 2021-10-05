@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <ReposModsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LauncherVersion>0.0.2.3 Public-Alpha</LauncherVersion>
-  <DownloadLink>https://www.dropbox.com/s/4zio6y6d0xng9el/GenLauncher23.rar?dl=1</DownloadLink>
+  <LauncherVersion>0.0.2.4 Public-Alpha</LauncherVersion>
+  <DownloadLink>https://www.dropbox.com/s/1gp195t7slykx8a/GenLauncher24.rar?dl=1</DownloadLink>
   <GameModifications>
     <string>https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/RISE%20OF%20THE%20REDS.yaml</string>
     <string>https://raw.githubusercontent.com/alanblack166/hanpatch-manifest/master/HANPATCH.yaml</string>
