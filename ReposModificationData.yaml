@@ -15,6 +15,7 @@ modDatas:
   ModPatches:
   - https://raw.githubusercontent.com/alanblack166/hanpatch-manifest/master/HANPATCH.yaml
   - https://raw.githubusercontent.com/Knjaz136/BPNewLauncher/master/BALANCE%20PATCH.yaml
+  - https://raw.githubusercontent.com/EnigmaZift/babushkarevenge/master/BABUSHKA'S%20REVENGE.yaml
   ModAddons:
   - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/ControlBarPro-Rotr.yaml
 - ModLink: https://raw.githubusercontent.com/AlexeiStukov1/The-End-of-Days/master/THE%20END%20OF%20DAYS.yaml
