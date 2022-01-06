@@ -47,7 +47,7 @@ modDatas:
 - ModLink: https://raw.githubusercontent.com/ZekeDlyoung/N-Project-Mod/master/NPROJECT_MOD.yaml
   ModPatches: []
   ModAddons: []
-ModLink: https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/WW2%20GenLauncher%20config.yml
+- ModLink: https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/WW2%20GenLauncher%20config.yml
   ModPatches: []
   ModAddons: []
 globalAddonsData:
