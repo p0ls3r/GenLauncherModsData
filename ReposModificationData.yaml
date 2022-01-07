@@ -47,6 +47,10 @@ modDatas:
 - ModLink: https://raw.githubusercontent.com/ZekeDlyoung/N-Project-Mod/master/NPROJECT_MOD.yaml
   ModPatches: []
   ModAddons: []
+- ModLink: https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/WW2%20GenLauncher%20config.yml
+  ModPatches:
+  - https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/WW2%20GenLauncher%20lang%20patch.yml
+  ModAddons: []
 globalAddonsData:
 - https://raw.githubusercontent.com/Haubibban/TEOD-Russifier-Repo/master/CYRILLIC%20CHAT%20SUPPORT.yaml
 - https://raw.githubusercontent.com/Haubibban/TEOD-Russifier-Repo/master/MAP%20LIMIT%20FIX.yaml
