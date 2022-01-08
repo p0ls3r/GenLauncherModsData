@@ -54,5 +54,5 @@ modDatas:
 globalAddonsData:
 - https://raw.githubusercontent.com/Haubibban/TEOD-Russifier-Repo/master/CYRILLIC%20CHAT%20SUPPORT.yaml
 - https://raw.githubusercontent.com/Haubibban/TEOD-Russifier-Repo/master/MAP%20LIMIT%20FIX.yaml
-LauncherVersion: 0.0.3.8 Beta
-DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher38.rar
+LauncherVersion: 0.0.3.9 Beta
+DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher39.rar
