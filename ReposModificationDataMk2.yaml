@@ -1,0 +1,7 @@
+modDatas:
+- ModLink: https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/RISE%20OF%20THE%20REDS.yaml
+  ModPatches: []
+  ModAddons: []  
+globalAddonsData: []
+LauncherVersion: 0.0.4.2 Beta
+DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher42.rar
