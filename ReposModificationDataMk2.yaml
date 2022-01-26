@@ -2,6 +2,7 @@ modDatas:
 - ModLink: https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/GenLauncherData.yaml
   ModPatches:
   - https://raw.githubusercontent.com/alanblack166/hanpatch-manifest/master/GenLauncherData.yaml
+  - https://raw.githubusercontent.com/Knjaz136/BPNewLauncher/master/GenLauncherData.yaml
   ModAddons: []  
 globalAddonsData: []
 LauncherVersion: 0.0.4.2 Beta
