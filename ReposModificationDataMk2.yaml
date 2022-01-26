@@ -6,7 +6,8 @@ modDatas:
   ModAddons: []  
 - ModLink: https://raw.githubusercontent.com/Haubibban/TEOD-Repository/master/THE_END_OF_DAYS_Secondary.yaml
   ModPatches: []
-  ModAddons: []
+  ModAddons:
+  - https://raw.githubusercontent.com/Haubibban/TEOD-Repository/master/TEOD%20Russifier.yaml
 globalAddonsData: []
 LauncherVersion: 0.0.4.2 Beta
 DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher42.rar
