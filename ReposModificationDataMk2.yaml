@@ -4,6 +4,9 @@ modDatas:
   - https://raw.githubusercontent.com/alanblack166/hanpatch-manifest/master/GenLauncherData.yaml
   - https://raw.githubusercontent.com/Knjaz136/BPNewLauncher/master/GenLauncherData.yaml
   ModAddons: []  
+- ModLink: https://raw.githubusercontent.com/Haubibban/TEOD-Repository/master/THE_END_OF_DAYS_Secondary.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 LauncherVersion: 0.0.4.2 Beta
 DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher42.rar
