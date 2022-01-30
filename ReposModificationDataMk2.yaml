@@ -14,6 +14,9 @@ modDatas:
 - ModLink: https://raw.githubusercontent.com/ZekeDlyoung/Zero-Hour-Reborn/master/ZERO%20HOUR%20REBORN_Individual.yaml
   ModPatches: []
   ModAddons: []
+- ModLink: https://raw.githubusercontent.com/ZekeDlyoung/CnC-Untitled/master/C%26C%20UNTITLED_Individual.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 LauncherVersion: 0.0.4.2 Beta
 DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher42.rar
