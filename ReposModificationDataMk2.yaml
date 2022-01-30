@@ -8,6 +8,9 @@ modDatas:
   ModPatches: []
   ModAddons:
   - https://raw.githubusercontent.com/Haubibban/TEOD-Repository/master/TEOD%20Russifier.yaml
+- ModLink: https://raw.githubusercontent.com/ZekeDlyoung/N-Project-Mod/master/NPROJECT_MOD_Individual.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 LauncherVersion: 0.0.4.2 Beta
 DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher42.rar
