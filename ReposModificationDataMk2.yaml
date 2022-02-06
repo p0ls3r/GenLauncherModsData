@@ -33,6 +33,11 @@ modDatas:
 - ModLink: https://raw.githubusercontent.com/Andreas-W/ofs/master/OFS_GenLauncherData.yaml
   ModPatches: []
   ModAddons: []
+- ModLink: https://raw.githubusercontent.com/alanblack166/shockwave-mod-manifest/master/GenLauncherData.yaml
+  ModPatches: 
+  - https://raw.githubusercontent.com/alanblack166/shockwave-mod-public-beta-manifest/master/GenLauncherData.yaml
+  ModAddons: 
+  - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD-SHW.yaml
 globalAddonsData:
 - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD.yaml
 LauncherVersion: 0.0.4.3 Beta
