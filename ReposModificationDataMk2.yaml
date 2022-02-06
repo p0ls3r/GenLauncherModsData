@@ -3,7 +3,8 @@ modDatas:
   ModPatches:
   - https://raw.githubusercontent.com/alanblack166/hanpatch-manifest/master/GenLauncherData.yaml
   - https://raw.githubusercontent.com/Knjaz136/BPNewLauncher/master/GenLauncherData.yaml
-  ModAddons: [] 
+  ModAddons:
+  - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD-ROTR.yaml
 - ModLink: https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR.yaml
   ModPatches:
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-RUSSIAN%20LANGUAGE%20AND%20LEIKEZE%20HOTKEYS.yaml
@@ -15,6 +16,7 @@ modDatas:
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-NATIVE%20UNIT%20VOICES.yaml
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-NEW%20MUSIC.yaml
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-WATER%20EFFECTS%20DISABLER.yaml
+  - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD-CONTRA.yaml
 - ModLink: https://raw.githubusercontent.com/Haubibban/TEOD-Repository/master/THE_END_OF_DAYS_Secondary.yaml
   ModPatches: []
   ModAddons:
@@ -28,6 +30,10 @@ modDatas:
 - ModLink: https://raw.githubusercontent.com/ZekeDlyoung/CnC-Untitled/master/C%26C%20UNTITLED_Individual.yaml
   ModPatches: []
   ModAddons: []
-globalAddonsData: []
-LauncherVersion: 0.0.4.2 Beta
-DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher42.rar
+- ModLink: https://raw.githubusercontent.com/Andreas-W/ofs/master/OFS_GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
+globalAddonsData:
+- https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD.yaml
+LauncherVersion: 0.0.4.3 Beta
+DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher43.rar
