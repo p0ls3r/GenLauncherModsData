@@ -42,6 +42,9 @@ modDatas:
 - ModLink: https://raw.githubusercontent.com/ECBVovin/Shockwave-Chaos-Mod/master/GenLauncherData.yaml
   ModPatches: []
   ModAddons: []
+- ModLink: https://raw.githubusercontent.com/TheAvenger3/The-Power-of-the-West/master/GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData:
 - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD.yaml
 LauncherVersion: 0.0.4.6 Beta
