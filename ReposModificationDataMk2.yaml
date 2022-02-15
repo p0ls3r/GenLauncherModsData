@@ -47,5 +47,5 @@ modDatas:
   ModAddons: []
 globalAddonsData:
 - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD.yaml
-LauncherVersion: 0.0.4.7 Beta
+LauncherVersion: 0.0.4.8 Beta
 DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher48.rar
