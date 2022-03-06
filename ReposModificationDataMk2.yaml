@@ -6,6 +6,7 @@ modDatas:
   - https://raw.githubusercontent.com/EnigmaZift/babushka-revenge-2/master/GenLauncherData.yaml
   ModAddons:
   - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD-ROTR.yaml
+  - https://raw.githubusercontent.com/alanblack16/hanpatch-easter-egg-addon-manifest/master/GenLauncherData.yaml
 - ModLink: https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR.yaml
   ModPatches:
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-RUSSIAN%20LANGUAGE%20AND%20LEIKEZE%20HOTKEYS.yaml
@@ -47,5 +48,5 @@ modDatas:
   ModAddons: []
 globalAddonsData:
 - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD.yaml
-LauncherVersion: 0.0.5.3 Beta
-DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher53.rar
+LauncherVersion: 0.0.5.4 Beta
+DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher54.rar
