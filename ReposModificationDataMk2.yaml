@@ -43,6 +43,10 @@ modDatas:
 - ModLink: https://raw.githubusercontent.com/ECBVovin/Shockwave-Chaos-Mod/master/GenLauncherData.yaml
   ModPatches: []
   ModAddons: []
+- ModLink: https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherData.yaml
+  ModPatches:
+- https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherDataForLangPatch.yaml
+  ModAddons: []
 - ModLink: https://raw.githubusercontent.com/TheAvenger3/The-Power-of-the-West/master/GenLauncherData.yaml
   ModPatches: []
   ModAddons: []
