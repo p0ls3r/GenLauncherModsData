@@ -40,6 +40,7 @@ modDatas:
   - https://raw.githubusercontent.com/alanblack166/shockwave-mod-public-beta-manifest/master/GenLauncherData.yaml
   ModAddons: 
   - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD-SHW.yaml
+  - https://raw.githubusercontent.com/qBeay/GenLaucherAddon/master/GenLauncherData.yaml
 - ModLink: https://raw.githubusercontent.com/ECBVovin/Shockwave-Chaos-Mod/master/GenLauncherData.yaml
   ModPatches: []
   ModAddons: []
