@@ -15,8 +15,5 @@
            xXxSPYxXx - S3 Storage provider.
            Knjaz - tests.
            Hanfield - tests.
-<<<<<<< HEAD
            Haubibban - tests.
-=======
            Haubibban - tests.
->>>>>>> 37c3e896bc542255b2bb3f56a810b56af60dcd4e
