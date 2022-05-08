@@ -1,1 +1,18 @@
-Test
+                                                             
+                                                             
+                                                             
+                                                                GenLauncher Authors and Contributors
+           
+           Development
+           DeL - main author, creator of GenLauncher predecessor "DeLauncher", chief shitcoder.
+           Grimm - originator of GenLauncher idea, creator of first GenLauncher prototype, development support.
+           MementoMori - development support, creator of the code responsible for changing the camera height.
+           Tet - development support.                                 
+           Abe - creator of GenLauncher logo.
+           ZekeDlyoung - creator of GenLauncher UI source images.
+           
+           Support
+           xXxSPYxXx - S3 Storage provider.
+           Knjaz - tests.
+           Hanfield - tests.
+           Haubiban - tests.
