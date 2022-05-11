@@ -1,0 +1,58 @@
+modDatas:
+- ModLink: https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/GenLauncherData.yaml
+  ModPatches:
+  - https://raw.githubusercontent.com/alanblack166/hanpatch-manifest/master/GenLauncherData.yaml
+  - https://raw.githubusercontent.com/Knjaz136/BPNewLauncher/master/GenLauncherData.yaml
+  - https://raw.githubusercontent.com/EnigmaZift/babushka-revenge-2/master/GenLauncherData.yaml
+  ModAddons:
+  - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD-ROTR.yaml
+  - https://raw.githubusercontent.com/alanblack166/hanpatch-easter-egg-addon-manifest/master/GenLauncherData.yaml
+- ModLink: https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR.yaml
+  ModPatches:
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-RUSSIAN%20LANGUAGE%20AND%20LEIKEZE%20HOTKEYS.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-RUSSIAN%20LANGUAGE%20AND%20LEGACY%20HOTKEYS.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-ENGLISH%20LANGUAGE%20AND%20LEIKEZE%20HOTKEYS.yaml
+  ModAddons:
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-FOG%20EFFECTS%20DISABLER.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-FUNNY%20PORTRAITS.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-NATIVE%20UNIT%20VOICES.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-NEW%20MUSIC.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-WATER%20EFFECTS%20DISABLER.yaml
+  - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD-CONTRA.yaml
+- ModLink: https://raw.githubusercontent.com/Haubibban/TEOD-Repository/master/THE_END_OF_DAYS_Secondary.yaml
+  ModPatches: []
+  ModAddons:
+  - https://raw.githubusercontent.com/Haubibban/TEOD-Repository/master/TEOD%20Russifier.yaml
+- ModLink: https://raw.githubusercontent.com/ZekeDlyoung/N-Project-Mod/master/NPROJECT_MOD_Individual.yaml
+  ModPatches: []
+  ModAddons: []
+- ModLink: https://raw.githubusercontent.com/ZekeDlyoung/Zero-Hour-Reborn/master/ZERO%20HOUR%20REBORN_Individual.yaml
+  ModPatches: []
+  ModAddons: []
+- ModLink: https://raw.githubusercontent.com/ZekeDlyoung/CnC-Untitled/master/C%26C%20UNTITLED_Individual.yaml
+  ModPatches: []
+  ModAddons: []
+- ModLink: https://raw.githubusercontent.com/Andreas-W/ofs/master/OFS_GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
+- ModLink: https://raw.githubusercontent.com/alanblack166/shockwave-mod-manifest/master/GenLauncherData.yaml
+  ModPatches: 
+  - https://raw.githubusercontent.com/alanblack166/shockwave-mod-public-beta-manifest/master/GenLauncherData.yaml
+  ModAddons: 
+  - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD-SHW.yaml
+  - https://raw.githubusercontent.com/qBeay/GenLaucherAddon/master/GenLauncherData.yaml
+  - https://raw.githubusercontent.com/qBeay/GenLaucherAddon-ShockWaveRUS/master/GenLauncherData.yaml
+- ModLink: https://raw.githubusercontent.com/ECBVovin/Shockwave-Chaos-Mod/master/GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
+- ModLink: https://raw.githubusercontent.com/TheAvenger3/The-Power-of-the-West/master/GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
+- ModLink: https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherData.yaml
+  ModPatches:
+  - https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherDataForLangPatch.yaml
+  ModAddons: []
+globalAddonsData:
+- https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD.yaml
+LauncherVersion: 0.0.6.3 Beta
+DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher63.rar
