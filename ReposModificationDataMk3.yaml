@@ -65,7 +65,7 @@ modDatas:
   ModAddons: []
 - ModName: C&C Tiberian Dawn Redux
   ModLink: https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/GenLauncherData.yaml
-  ModPatches:
+  ModPatches: 
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/InfestationValleyShellmap.yaml
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/NodAmbushShellmap.yaml
   ModAddons:

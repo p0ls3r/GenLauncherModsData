@@ -52,6 +52,14 @@ modDatas:
   ModPatches:
   - https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherDataForLangPatch.yaml
   ModAddons: []
+- ModLink: https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/GenLauncherData.yaml
+  ModPatches: 
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/InfestationValleyShellmap.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/NodAmbushShellmap.yaml
+  ModAddons:
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/CC64Remixes.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/CCTDRRemixes.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/EnhancedShaders.yaml
 globalAddonsData:
 - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD.yaml
 LauncherVersion: 0.0.6.3 Beta
