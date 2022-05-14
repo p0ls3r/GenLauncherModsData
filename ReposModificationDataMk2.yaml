@@ -61,6 +61,9 @@ modDatas:
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/CC64Remixes.yaml
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/CCTDRRemixes.yaml
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/EnhancedShaders.yaml
+- ModLink: https://raw.githubusercontent.com/taofaikwai/taofaikwai/master/GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData:
 - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD.yaml
 LauncherVersion: 0.0.6.3 Beta
