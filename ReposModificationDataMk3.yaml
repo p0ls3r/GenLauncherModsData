@@ -73,6 +73,8 @@ modDatas:
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/CC64Remixes.yaml
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/CCTDRRemixes.yaml
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/EnhancedShaders.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/CCTDR2CC2TSMusic.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/CCTDR2CC3TWMusic.yaml
 - ModName: C&C Generals Continue
   ModLink: https://raw.githubusercontent.com/taofaikwai/taofaikwai/master/GenLauncherData.yaml
   ModPatches: []
