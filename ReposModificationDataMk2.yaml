@@ -66,6 +66,12 @@ modDatas:
 - ModLink: https://raw.githubusercontent.com/taofaikwai/taofaikwai/master/GenLauncherData.yaml
   ModPatches: []
   ModAddons: []
+- ModLink: https://raw.githubusercontent.com/ZekeDlyoung/condition-zero/master/CONDITION%20ZERO.yaml
+  ModPatches: []
+  ModAddons: []
+- ModLink: https://raw.githubusercontent.com/ZekeDlyoung/Project-Raptor/master/PROJECT%20RAPTOR.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData:
 - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD.yaml
 LauncherVersion: 0.0.6.5 Beta
