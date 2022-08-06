@@ -88,7 +88,6 @@ modDatas:
   ModLink: https://raw.githubusercontent.com/ZekeDlyoung/Project-Raptor/master/PROJECT%20RAPTOR.yaml
   ModPatches: []
   ModAddons: []
-globalAddonsData:
-- https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD.yaml
-LauncherVersion: 0.0.7.0 Beta
-DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher70.zip
+globalAddonsData: []
+LauncherVersion: 0.0.7.1 Beta
+DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher71.zip
