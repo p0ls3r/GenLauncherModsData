@@ -88,6 +88,12 @@ modDatas:
   ModLink: https://raw.githubusercontent.com/ZekeDlyoung/Project-Raptor/master/PROJECT%20RAPTOR.yaml
   ModPatches: []
   ModAddons: []
+- ModName: C&C Generals Version 2.0
+  ModLink: https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-C-C-Generals-Version-2.0-GZH-Mod/master-branch/GenLauncherData.yaml
+  ModPatches: 
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-C-C-Generals-Version-2.0-GZH-Mod/master-branch/ZHShellMapRemastered.yaml
+  ModAddons:
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-C-C-Generals-Version-2.0-GZH-Mod/master-branch/ZHEnhancedShaders.yaml
 globalAddonsData: []
 LauncherVersion: 0.0.7.1 Beta
 DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher71.zip
