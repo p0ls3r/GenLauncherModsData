@@ -62,6 +62,7 @@ modDatas:
   ModLink: https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherData.yaml
   ModPatches:
   - https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherDataForLangPatch.yaml
+  - https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherDataForFreLangPatch.yaml
   ModAddons: []
 - ModName: C&C Tiberian Dawn Redux
   ModLink: https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/GenLauncherData.yaml
