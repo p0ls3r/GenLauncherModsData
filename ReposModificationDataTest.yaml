@@ -94,6 +94,10 @@ modDatas:
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-C-C-Generals-Version-2.0-GZH-Mod/master-branch/ZHShellMapRemastered.yaml
   ModAddons:
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-C-C-Generals-Version-2.0-GZH-Mod/master-branch/ZHEnhancedShaders.yaml
+- ModName: Project Tomahawk:Storm
+  ModLink: https://raw.githubusercontent.com/msdxiv/project-tomahawk-storm/master/project-tomahawk-storm.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 LauncherVersion: 0.0.7.2
 DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher72.zip
