@@ -1,14 +1,14 @@
-ModificationType: Mod
-Name: Rise of the Reds
-Version: 1.87 Public Build 2.0
-SimpleDownloadLink: https://onedrive.live.com/embed?cid=AFB01C08E053A64E&resid=AFB01C08E053A64E%21593&authkey=AMJHOwXKTTTErrI
-UIImageSourceLink: https://i.imgur.com/FNgEp6t.png
-DiscordLink: https://discord.gg/REcbv37
-ModDBLink: https://www.moddb.com/mods/rise-of-the-reds
-NewsLink: https://www.moddb.com/mods/rise-of-the-reds/articles
+ModificationType: Advertising
+Name: GlAdv
+Version: 1
+SimpleDownloadLink: ''
+UIImageSourceLink: ''
+DiscordLink: https://discord.gg/fFGpudz5hV
+ModDBLink: https://www.moddb.com/mods/genlauncher
+NewsLink: ''
 DependenceName: ''
-S3HostLink: gen.insave.ovh:9000
-S3BucketName: rotr
-S3FolderName: rotr-individual-files
+S3HostLink: ''
+S3BucketName: ''
+S3FolderName: ''
 S3HostPublicKey: ''
 S3HostSecretKey: ''
