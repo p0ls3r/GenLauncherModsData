@@ -12,4 +12,4 @@ S3BucketName: ''
 S3FolderName: ''
 S3HostPublicKey: ''
 S3HostSecretKey: ''
-NetworkInfo: https://www.donationalerts.com/r/pal_ser
+NetworkInfo: ''
