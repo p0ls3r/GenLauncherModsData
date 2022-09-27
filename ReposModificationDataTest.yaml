@@ -7,7 +7,7 @@ modDatas:
   - https://raw.githubusercontent.com/EnigmaZift/babushka-revenge-2/master/GenLauncherData.yaml
   ModAddons:
   - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD-ROTR.yaml
-  - https://raw.githubusercontent.com/alanblack166/hanpatch-easter-egg-addon-manifest/master/GenLauncherTestData.yaml
+  - https://raw.githubusercontent.com/alanblack166/hanpatch-easter-egg-addon-manifest/master/GenLauncherData.yaml
 - ModName: Contra
   ModLink: https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR.yaml
   ModPatches:
@@ -62,6 +62,7 @@ modDatas:
   ModLink: https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherData.yaml
   ModPatches:
   - https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherDataForLangPatch.yaml
+  - https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherDataForFreLangPatch.yaml
   ModAddons: []
 - ModName: C&C Tiberian Dawn Redux
   ModLink: https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/GenLauncherData.yaml
@@ -94,10 +95,7 @@ modDatas:
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-C-C-Generals-Version-2.0-GZH-Mod/master-branch/ZHShellMapRemastered.yaml
   ModAddons:
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-C-C-Generals-Version-2.0-GZH-Mod/master-branch/ZHEnhancedShaders.yaml
-- ModName: Project Tomahawk:Storm
-  ModLink: https://raw.githubusercontent.com/msdxiv/project-tomahawk-storm/master/project-tomahawk-storm.yaml
-  ModPatches: []
-  ModAddons: []
 globalAddonsData: []
-LauncherVersion: 0.0.7.2
-DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher72.zip
+advData: []
+LauncherVersion: 0.0.7.3
+DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher73.zip

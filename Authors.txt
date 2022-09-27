@@ -12,6 +12,7 @@
            Tet - development support.                                 
            Abe - creator of GenLauncher logo.
            ZekeDlyoung - creator of GenLauncher UI source images.
+           When They Cry - creator of advertising images.
            
            Support
            xXxSPYxXx - S3 Storage provider.
