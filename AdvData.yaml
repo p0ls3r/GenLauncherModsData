@@ -13,3 +13,5 @@ S3FolderName: ''
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: https://www.youtube.com/channel/UCKc7ojRs4VsN-avWsJNsmEw
+SupportInfo : ''
+Deprecated: false
