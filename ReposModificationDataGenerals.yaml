@@ -3,6 +3,10 @@ modDatas:
   ModLink: https://raw.githubusercontent.com/msdxiv/project-tomahawk-storm/master/project-tomahawk-storm.yaml
   ModPatches: []
   ModAddons: []
+- ModName: Generals Enhanced
+  ModLink: https://raw.githubusercontent.com/RequiemLux/GenLauncher_GenEnh/master/GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 LauncherVersion: 0.0.7.6
 DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher76.zip
