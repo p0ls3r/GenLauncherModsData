@@ -96,5 +96,5 @@ modDatas:
   ModAddons:
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-C-C-Generals-Version-2.0-GZH-Mod/master-branch/ZHEnhancedShaders.yaml
 globalAddonsData: []
-LauncherVersion: 0.0.8.4
-DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher84.zip
+LauncherVersion: 0.0.8.5
+DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher85.zip
