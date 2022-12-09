@@ -95,6 +95,10 @@ modDatas:
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-C-C-Generals-Version-2.0-GZH-Mod/master-branch/ZHShellMapRemastered.yaml
   ModAddons:
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-C-C-Generals-Version-2.0-GZH-Mod/master-branch/ZHEnhancedShaders.yaml
+- ModName: Zero Hour Escalated
+  ModLink: https://raw.githubusercontent.com/Gabriel-Schumacher/zerohour_escalated/master/GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 AdvData:
 - ModName: Do you like GenLauncher?
