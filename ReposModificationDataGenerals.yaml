@@ -10,3 +10,4 @@ modDatas:
 globalAddonsData: []
 LauncherVersion: 0.0.8.8
 DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher88.zip
+VulkanReposData: https://raw.githubusercontent.com/p0ls3r/GenLauncherModsData/master/VulkanTest.yaml
