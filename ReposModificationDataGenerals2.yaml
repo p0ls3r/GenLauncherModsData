@@ -8,6 +8,6 @@ modDatas:
   ModPatches: []
   ModAddons: []
 globalAddonsData: []
-LauncherVersion: 1.0.0.0
-DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher1000.zip
+LauncherVersion: 1.0.0.1
+DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher1001.zip
 VulkanReposData: https://raw.githubusercontent.com/qBeay/Vulkan/master/VulkanTest.yaml
