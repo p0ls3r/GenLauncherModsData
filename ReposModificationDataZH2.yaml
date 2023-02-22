@@ -100,6 +100,10 @@ modDatas:
   ModLink: https://raw.githubusercontent.com/Gabriel-Schumacher/zerohour_escalated/master/GenLauncherData.yaml
   ModPatches: []
   ModAddons: []
+- ModName: C&C Power Play
+  ModLink: https://raw.githubusercontent.com/NeverLoseGuy/CnCPowerPlay/main/GenLauncherConfig.yml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 AdvData:
 - ModName: Do you like GenLauncher?
