@@ -9,7 +9,7 @@
            MementoMori - development support, creator of the code responsible for changing the camera height.
            R1D - development support, creator of Vulkan API integration.
            Dimazava - development support.
-           Jared Lung - development support.
+           Jared Lung (MaliceGFS) - development support.
            Tet - development support.                                 
            Abe - creator of GenLauncher logo.
            ZekeDlyoung - creator of GenLauncher UI source images.
