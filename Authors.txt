@@ -4,7 +4,7 @@
                                                                 GenLauncher Authors and Contributors
            
            Development
-           DeL - main author, creator of GenLauncher predecessor "DeLauncher", chief shitcoder.
+           PaL_Ser (DeL) - main author, creator of GenLauncher predecessor "DeLauncher", chief shitcoder.
            Grimm - originator of GenLauncher idea, creator of first GenLauncher prototype, development support.           
            MementoMori - development support, creator of the code responsible for changing the camera height.
            R1D - development support, creator of Vulkan API integration.
