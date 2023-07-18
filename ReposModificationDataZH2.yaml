@@ -105,6 +105,10 @@ modDatas:
   ModLink: https://raw.githubusercontent.com/NeverLoseGuy/CnCPowerPlay/main/GenLauncherConfig.yml
   ModPatches: []
   ModAddons: []
+- ModName: Revolution Project
+  ModLink: https://raw.githubusercontent.com/TipaIvanReal/RevoutionProject/main/RevolutionProjectGenLauncher.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 AdvData:
 - ModName: Do you like GenLauncher?
