@@ -16,8 +16,7 @@ modDatas:
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-RUSSIAN%20LANGUAGE%20AND%20LEGACY%20HOTKEYS.yaml
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-ENGLISH%20LANGUAGE%20AND%20LEIKEZE%20HOTKEYS.yaml
   ModAddons:
- - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-CAMEOS-HD.yaml
-#  - https://raw.githubusercontent.com/Hojjat-Hasanpur/ControlBarProContra/master/ControlBarProContra.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-CAMEOS-HD.yaml
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-CONTROLBAR-PRO.yaml
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-CONTROLBAR-STANDARD.yaml
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-NEW%20MUSIC.yaml
