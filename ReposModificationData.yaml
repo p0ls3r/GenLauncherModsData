@@ -9,7 +9,7 @@ modDatas:
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/NATIVE%20UNIT%20VOICES.yaml
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/FUNNY%20PORTRAITS.yaml
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/NEW%20MUSIC.yaml
-  - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/ControlBarPro-Contra.yaml
+#  - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/ControlBarPro-Contra.yaml
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/FOG%20EFFECTS%20DISABLER.yaml
 - ModLink: https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/RISE%20OF%20THE%20REDS.yaml
   ModPatches:
