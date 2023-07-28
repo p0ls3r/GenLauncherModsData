@@ -110,7 +110,8 @@ modDatas:
   ModAddons: []
 - ModName: Revolution Project
   ModLink: https://raw.githubusercontent.com/TipaIvanReal/RevoutionProject/main/RevolutionProjectGenLauncher.yaml
-  ModPatches: []
+  ModPatches:
+  - https://raw.githubusercontent.com/TipaIvanReal/RevoutionProject/main/3.0%20Russian%20Language.yaml
   ModAddons: []
 globalAddonsData: []
 AdvData:
