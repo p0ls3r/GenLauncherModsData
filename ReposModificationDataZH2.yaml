@@ -27,7 +27,8 @@ modDatas:
   - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-EXTRA-BUILDING-PROPS-DISABLER.yaml
 - ModName: The End of Days
   ModLink: https://raw.githubusercontent.com/Haubibban/TEOD-Repository/master/THE_END_OF_DAYS_Secondary.yaml
-  ModPatches: []
+  ModPatches:
+  - https://raw.githubusercontent.com/Haubibban/TEOD-Repository/main/TEOD%20Test%20Patch.yaml
   ModAddons:
   - https://raw.githubusercontent.com/Haubibban/TEOD-Repository/master/TEOD%20Russifier.yaml
 - ModName: NProject Mod
