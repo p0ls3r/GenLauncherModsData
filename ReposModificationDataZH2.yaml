@@ -113,6 +113,10 @@ modDatas:
   ModPatches:
   - https://raw.githubusercontent.com/TipaIvanReal/RevoutionProject/main/3.0%20Russian%20Language.yaml
   ModAddons: []
+- ModName: Giant Robot Edition
+  ModLink: https://raw.githubusercontent.com/Zatsupachi/GeneralsGiantRobotEdition/main/GRE.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 AdvData:
 - ModName: Do you like GenLauncher?
