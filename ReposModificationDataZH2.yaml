@@ -117,6 +117,10 @@ modDatas:
   ModLink: https://raw.githubusercontent.com/Zatsupachi/GeneralsGiantRobotEdition/main/GRE.yaml
   ModPatches: []
   ModAddons: []
+- ModName: Cold War Crisis
+  ModLink: https://raw.githubusercontent.com/jmb20/cwcGenLauncher/main/CWC.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 AdvData:
 - ModName: Do you like GenLauncher?
