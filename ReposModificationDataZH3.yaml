@@ -122,6 +122,15 @@ modDatas:
   ModLink: https://raw.githubusercontent.com/jmb20/cwcGenLauncher/main/CWC.yaml
   ModPatches: []
   ModAddons: []
+- ModName: C&C Red Alert Redux
+  ModLink: https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/GenLauncherData.yaml
+  ModPatches: 
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/AlliedShellmap.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/SovietShellmap.yaml
+  ModAddons: 
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/RealisticCamoHCMod.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/RARDXClassicSkins.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/RAReduxControlBarPro.yaml
 globalAddonsData: []
 originalGameAddons: []
 originalGamePatches: []
