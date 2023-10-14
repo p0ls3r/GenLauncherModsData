@@ -1,0 +1,13 @@
+modDatas:
+- ModName: Project Tomahawk Storm
+  ModLink: https://raw.githubusercontent.com/msdxiv/project-tomahawk-storm/master/project-tomahawk-storm.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: Generals Enhanced
+  ModLink: https://raw.githubusercontent.com/RequiemLux/GenLauncher_GenEnh/master/GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
+globalAddonsData: []
+LauncherVersion: 1.0.0.3
+DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher1003.zip
+VulkanReposData: https://raw.githubusercontent.com/qBeay/Vulkan/master/VulkanTest.yaml
