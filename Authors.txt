@@ -20,3 +20,14 @@
            Knjaz - tests.
            Hanfield - tests.
            Haubibban - tests.
+            
+           Translations
+           Turkish: By Bruce 
+           Spanish: By Drdaher
+           Portuguese: By Drdaher
+           German: By Stanislav.Saw
+           Arabic: By Striker4fun
+           French:By Drdaher & Maelstrom
+           Chinese: By Vault Boyne
+           Ukranian: By Igor22256
+           Croat: By Nikola Predova
