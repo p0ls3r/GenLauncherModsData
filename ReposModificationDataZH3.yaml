@@ -138,10 +138,10 @@ AdvData:
 - ModName: Do you like GenLauncher?
   ModLink: https://raw.githubusercontent.com/p0ls3r/GenLauncherModsData/master/AdvData.yaml
   ImagesData:
-  - https://cdn.discordapp.com/attachments/886294205075431474/1024155381754253413/04.jpg?ex=65f90186&is=65e68c86&hm=d3c6190c40d07d2fc172a5c6583029983b83439642331c58d5b842d332798235&
-  - https://cdn.discordapp.com/attachments/886294205075431474/1024155381041221663/02.jpg?ex=65f90186&is=65e68c86&hm=bbb2853f0f2004b4fe16075b39835bc4ca57f803b2bd255e491a37a00c562e90&
-  - https://cdn.discordapp.com/attachments/886294205075431474/1024155380655333456/01.jpg?ex=65f90186&is=65e68c86&hm=4c2f17ea8c7287d2367034e1f8c9794106c70c181673fd68f70cc5f3fbc05016&
-  - https://cdn.discordapp.com/attachments/886294205075431474/1024155381431275600/03.jpg?ex=65f90186&is=65e68c86&hm=235a6fc0c421e78f2e4e446b1f7494d5c4bb1fabb58de1f10a8bcc323a079ab8&
+  - https://i.imgur.com/VbPCbDz.jpg
+  - https://i.imgur.com/3c1MySP.jpg
+  - https://i.imgur.com/VlLAoUo.jpg
+  - https://i.imgur.com/jCX5AjI.jpg
 LauncherVersion: 1.0.0.6
 DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher1006.zip
 VulkanReposData: https://raw.githubusercontent.com/qBeay/Vulkan/master/VulkanTest.yaml
