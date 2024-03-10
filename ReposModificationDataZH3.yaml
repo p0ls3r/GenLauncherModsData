@@ -131,6 +131,10 @@ modDatas:
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/RealisticCamoHCMod.yaml
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/RARDXClassicSkins.yaml
   - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/RAReduxControlBarPro.yaml
+- ModName: Zero Hour Enhanced
+  ModLink: https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/manifest.txt
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 originalGameAddons: []
 originalGamePatches: []
