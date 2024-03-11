@@ -134,7 +134,17 @@ modDatas:
 - ModName: Zero Hour Enhanced
   ModLink: https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/manifest.txt
   ModPatches: []
-  ModAddons: []
+  ModAddons:
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/cameohd_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/infui97_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/infui98_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/texturesbasehd_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/texturescivilianhd_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/ui97_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/ui98_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/water97_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/water98_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/windows98_manifest.txt
 globalAddonsData: []
 originalGameAddons: []
 originalGamePatches: []
