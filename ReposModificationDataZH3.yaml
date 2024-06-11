@@ -146,6 +146,10 @@ modDatas:
   - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/water97_manifest.txt
   - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/water98_manifest.txt
   - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/windows98_manifest.txt
+- ModName: ProGen 2.6 Directors Cut
+  ModLink: https://raw.githubusercontent.com/ZekeDlyoung/ProGen/main/ProGen26.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 originalGameAddons: []
 originalGamePatches: []
