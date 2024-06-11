@@ -8,7 +8,7 @@ modDatas:
   ModPatches: []
   ModAddons: []
 - ModName: ProGen 1.9
-  ModLink: https://raw.githubusercontent.com/ZekeDlyoung/ProGen/blob/main/ProGen19.yaml
+  ModLink: https://raw.githubusercontent.com/ZekeDlyoung/ProGen/main/ProGen19.yaml
   ModPatches: []
   ModAddons: []
 globalAddonsData: []
