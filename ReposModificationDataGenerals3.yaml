@@ -7,6 +7,10 @@ modDatas:
   ModLink: https://raw.githubusercontent.com/RequiemLux/GenLauncher_GenEnh/master/GenLauncherData.yaml
   ModPatches: []
   ModAddons: []
+- ModName: ProGen 1.9
+  ModLink: https://raw.githubusercontent.com/ZekeDlyoung/ProGen/blob/main/ProGen19.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 originalGameAddons: []
 originalGamePatches: []
