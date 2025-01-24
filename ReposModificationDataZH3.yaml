@@ -55,8 +55,8 @@ modDatas:
   - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD-SHW.yaml
   - https://raw.githubusercontent.com/qBeay/GenLaucherAddon/master/GenLauncherData.yaml
   - https://raw.githubusercontent.com/qBeay/GenLaucherAddon-ShockWaveRUS/master/GenLauncherData.yaml
-  - https://raw.githubusercontent.com/lemon-l3m/lemon-ccshockwave/refs/heads/main/LemonSHWH.yaml
-  - https://raw.githubusercontent.com/lemon-l3m/lemon-ccshockwave/refs/heads/main/LemonSHWHHOTFIX.yaml
+  - https://raw.githubusercontent.com/lemon-l3m/lemon-ccshockwave/main/LemonSHWH.yaml
+  - https://raw.githubusercontent.com/lemon-l3m/lemon-ccshockwave/main/LemonSHWHHOTFIX.yaml
 - ModName: Shockwave Chaos Mod
   ModLink: https://raw.githubusercontent.com/ECBVovin/Shockwave-Chaos-Mod/master/GenLauncherData.yaml
   ModPatches: []
