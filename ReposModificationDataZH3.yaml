@@ -152,9 +152,6 @@ modDatas:
   ModLink: https://raw.githubusercontent.com/ZekeDlyoung/ProGen/main/ProGen26.yaml
   ModPatches: []
   ModAddons: []
-globalAddonsData: []
-originalGameAddons: []
-originalGamePatches: []
 - ModName: forGenerals
   ModLink: https://raw.githubusercontent.com/Frikamen/forGenerals/main/ZERO%20HOUR%20forGenerals_individual.yaml
   ModPatches: []
