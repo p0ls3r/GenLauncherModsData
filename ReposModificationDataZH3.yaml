@@ -155,6 +155,13 @@ modDatas:
 globalAddonsData: []
 originalGameAddons: []
 originalGamePatches: []
+- ModName: forGenerals
+  ModLink: https://raw.githubusercontent.com/Frikamen/forGenerals/main/ZERO%20HOUR%20forGenerals_individual.yaml
+  ModPatches: []
+  ModAddons: []
+globalAddonsData: []
+originalGameAddons: []
+originalGamePatches: []
 AdvData:
 - ModName: Do you like GenLauncher?
   ModLink: https://raw.githubusercontent.com/p0ls3r/GenLauncherModsData/master/AdvData.yaml
