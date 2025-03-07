@@ -57,7 +57,7 @@ modDatas:
   - https://raw.githubusercontent.com/qBeay/GenLaucherAddon-ShockWaveRUS/master/GenLauncherData.yaml
   - https://raw.githubusercontent.com/lemon-l3m/lemon-ccshockwave/main/LemonSHWH.yaml
   - https://raw.githubusercontent.com/lemon-l3m/lemon-ccshockwave/main/LemonSHWHHOTFIX.yaml
-  - https://raw.githubusercontent.com/WARthogBasilius/SW-single-player-213/main/Shockwave%20Single%20Player%20Experience%20213.yaml
+  - https://raw.githubusercontent.com/WARthogBasilius/SW-single-player-213/main/Shockwave%20Single%20Player%20Experience.yaml
 - ModName: Shockwave Chaos Mod
   ModLink: https://raw.githubusercontent.com/ECBVovin/Shockwave-Chaos-Mod/master/GenLauncherData.yaml
   ModPatches: []
