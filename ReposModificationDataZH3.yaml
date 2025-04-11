@@ -157,6 +157,10 @@ modDatas:
   ModLink: https://raw.githubusercontent.com/Frikamen/forGenerals/main/ZERO%20HOUR%20forGenerals_individual.yaml
   ModPatches: []
   ModAddons: []
+- ModName: Patch 1.2 Project
+  ModLink: https://raw.githubusercontent.com/Float1ngFree/Generals_1.20-Rebalanced-/main/GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 originalGameAddons: []
 originalGamePatches: []
