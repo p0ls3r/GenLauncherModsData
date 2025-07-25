@@ -5,6 +5,7 @@ modDatas:
   - https://raw.githubusercontent.com/alanblack166/hanpatch-manifest/master/GenLauncherData.yaml
   - https://raw.githubusercontent.com/Knjaz136/BPNewLauncher/master/GenLauncherData.yaml
   - https://raw.githubusercontent.com/EnigmaZift/babushka-revenge-2/master/GenLauncherData.yaml
+  - https://raw.githubusercontent.com/FlamerYeeter/ROTR-ATP/main/AntiThesisPatch_INDIVIDUAL.yaml
   ModAddons:
   - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD-ROTR.yaml
   - https://raw.githubusercontent.com/alanblack166/hanpatch-easter-egg-addon-manifest/master/GenLauncherData.yaml
