@@ -177,7 +177,7 @@ executables:
   DependencyName: ""
 - ModName: testExecutable
   ModLink: https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/GenLauncherData.yaml
-  DependencyName: ""
+  DependencyName: "Rise Of The Reds"
 AdvData:
 - ModName: Do you like GenLauncher?
   ModLink: https://raw.githubusercontent.com/p0ls3r/GenLauncherModsData/master/AdvData.yaml
