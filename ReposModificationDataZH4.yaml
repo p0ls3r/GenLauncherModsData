@@ -1,0 +1,185 @@
+modDatas:
+- ModName: Rise Of The Reds
+  ModLink: https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/GenLauncherData.yaml
+  ModPatches:
+  - https://raw.githubusercontent.com/alanblack166/hanpatch-manifest/master/GenLauncherData.yaml
+  - https://raw.githubusercontent.com/Knjaz136/BPNewLauncher/master/GenLauncherData.yaml
+  - https://raw.githubusercontent.com/EnigmaZift/babushka-revenge-2/master/GenLauncherData.yaml
+  - https://raw.githubusercontent.com/FlamerYeeter/ROTR-ATP/main/AntiThesisPatch_INDIVIDUAL.yaml
+  - https://raw.githubusercontent.com/GerardoDMBX/EmpirePacificAllianceSubmod/main/Empire_Pacific_Alliance.yaml
+  ModAddons:
+  - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD-ROTR.yaml
+  - https://raw.githubusercontent.com/alanblack166/hanpatch-easter-egg-addon-manifest/master/GenLauncherData.yaml
+  - https://raw.githubusercontent.com/rommel917/rotr-navy-genlauncher/master/ROTR-NAVY.yaml
+  - https://raw.githubusercontent.com/StanislavSaw/Vanilla-Campaigns-Remastered---Manifest-file/master/Vanilla-Campaigns-Remastered---Manifest-file.yaml
+  - https://raw.githubusercontent.com/GerardoDMBX/EmpirePacificAllianceNoMech/main/GenLauncherData.yaml
+  - https://raw.githubusercontent.com/GerardoDMBX/EPAUnoficialMusic/main/EPAUnoficialMusic.yaml
+- ModName: Contra
+  ModLink: https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR.yaml
+  ModPatches:
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-RUSSIAN%20LANGUAGE%20AND%20LEIKEZE%20HOTKEYS.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-RUSSIAN%20LANGUAGE%20AND%20LEGACY%20HOTKEYS.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-ENGLISH%20LANGUAGE%20AND%20LEIKEZE%20HOTKEYS.yaml
+  ModAddons:
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-CAMEOS-HD.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-CONTROLBAR-PRO.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-CONTROLBAR-STANDARD.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-NEW%20MUSIC.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-MUSIC-ENHANCED.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-MUSIC-THE-SCORE.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-FUNNY%20PORTRAITS.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-NATIVE%20UNIT%20VOICES.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-FOG%20EFFECTS%20DISABLER.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-WATER%20EFFECTS%20DISABLER.yaml
+  - https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR-EXTRA-BUILDING-PROPS-DISABLER.yaml
+- ModName: The End of Days
+  ModLink: https://raw.githubusercontent.com/Haubibban/TEOD-Repository/master/THE_END_OF_DAYS_Secondary.yaml
+  ModPatches: []
+  ModAddons:
+  - https://raw.githubusercontent.com/Haubibban/TEOD-Repository/master/TEOD%20Russifier.yaml
+- ModName: NProject Mod
+  ModLink: https://raw.githubusercontent.com/ZekeDlyoung/N-Project-Mod/master/NPROJECT_MOD_Individual.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: Zero Hour Reborn
+  ModLink: https://raw.githubusercontent.com/ZekeDlyoung/Zero-Hour-Reborn/master/ZERO%20HOUR%20REBORN_Individual.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: C&C Untitled
+  ModLink: https://raw.githubusercontent.com/ZekeDlyoung/CnC-Untitled/master/C%26C%20UNTITLED_Individual.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: Operation Firestorm
+  ModLink: https://raw.githubusercontent.com/Andreas-W/ofs/master/OFS_GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: C&C Shockwave
+  ModLink: https://raw.githubusercontent.com/alanblack166/shockwave-mod-manifest/master/GenLauncherData.yaml
+  ModPatches: 
+  - https://raw.githubusercontent.com/alanblack166/shockwave-mod-public-beta-manifest/master/GenLauncherData.yaml
+  ModAddons: 
+  - https://raw.githubusercontent.com/Kesanov/GenLauncherFiles/master/HUD-SHW.yaml
+  - https://raw.githubusercontent.com/qBeay/GenLaucherAddon/master/GenLauncherData.yaml
+  - https://raw.githubusercontent.com/qBeay/GenLaucherAddon-ShockWaveRUS/master/GenLauncherData.yaml
+  - https://raw.githubusercontent.com/lemon-l3m/lemon-ccshockwave/main/LemonSHWH.yaml
+  - https://raw.githubusercontent.com/lemon-l3m/lemon-ccshockwave/main/LemonSHWHHOTFIX.yaml
+  - https://raw.githubusercontent.com/WARthogBasilius/SW-single-player-213/main/Shockwave%20Single%20Player%20Experience.yaml
+- ModName: Shockwave Chaos Mod
+  ModLink: https://raw.githubusercontent.com/ECBVovin/Shockwave-Chaos-Mod/master/GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: The Power of the west
+  ModLink: https://raw.githubusercontent.com/TheAvenger3/The-Power-of-the-West/master/GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: World War 2
+  ModLink: https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherData.yaml
+  ModPatches:
+  - https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherDataForLangPatch.yaml
+  - https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherDataForFreLangPatch.yaml
+  ModAddons:
+  - https://raw.githubusercontent.com/Novikolay/ww2GenLauncher/master/GenLauncherDataForTestFixAddon.yaml
+- ModName: C&C Tiberian Dawn Redux
+  ModLink: https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/GenLauncherData.yaml
+  ModPatches: 
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/InfestationValleyShellmap.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/NodAmbushShellmap.yaml
+  ModAddons:
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/TDReduxControlBarPro.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/TDReduxMovies.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/CC64Remixes.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/CCTDRRemixes.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/TDREnhancedShaders.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/CCTDR2CC2TSMusic.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/CCTDR2CC3TWMusic.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Tiberian-Dawn-Redux-GZH/master-branch/TDR2TWVoiceMod.yaml
+- ModName: C&C Generals Continue
+  ModLink: https://raw.githubusercontent.com/taofaikwai/taofaikwai/master/GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: Condition Zero
+  ModLink: https://raw.githubusercontent.com/ZekeDlyoung/condition-zero/master/CONDITION%20ZERO.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: Project Raptor
+  ModLink: https://raw.githubusercontent.com/ZekeDlyoung/Project-Raptor/master/PROJECT%20RAPTOR.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: C&C Generals Version 2.0
+  ModLink: https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-C-C-Generals-Version-2.0-GZH-Mod/master-branch/GenLauncherData.yaml
+  ModPatches:
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-C-C-Generals-Version-2.0-GZH-Mod/master-branch/ZHShellMapRemastered.yaml
+  ModAddons:
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-C-C-Generals-Version-2.0-GZH-Mod/master-branch/ZHEnhancedShaders.yaml
+- ModName: Zero Hour Escalated
+  ModLink: https://raw.githubusercontent.com/Gabriel-Schumacher/zerohour_escalated/master/GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: C&C Power Play
+  ModLink: https://raw.githubusercontent.com/NeverLoseGuy/CnCPowerPlay/main/GenLauncherConfig.yml
+  ModPatches: []
+  ModAddons: []
+- ModName: Revolution Project
+  ModLink: https://raw.githubusercontent.com/TipaIvanReal/RevoutionProject/main/RevolutionProjectGenLauncher.yaml
+  ModPatches:
+  - https://raw.githubusercontent.com/TipaIvanReal/RevoutionProject/main/3.0%20Russian%20Language.yaml
+  ModAddons: 
+  - https://raw.githubusercontent.com/TipaIvanReal/RevoutionProject/main/Controlbar%20HD.yaml
+- ModName: Giant Robot Edition
+  ModLink: https://raw.githubusercontent.com/Zatsupachi/GeneralsGiantRobotEdition/main/GRE.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: Cold War Crisis
+  ModLink: https://raw.githubusercontent.com/jmb20/cwcGenLauncher/main/CWC.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: C&C Red Alert Redux
+  ModLink: https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/GenLauncherData.yaml
+  ModPatches: 
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/AlliedShellmap.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/SovietShellmap.yaml
+  ModAddons: 
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/RealisticCamoHCMod.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/RARDXClassicSkins.yaml
+  - https://raw.githubusercontent.com/sgtmyers88/sgtmyers88-Red-Alert-Redux-GZH/master-branch/RAReduxControlBarPro.yaml
+- ModName: Zero Hour Enhanced
+  ModLink: https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/manifest.txt
+  ModPatches: []
+  ModAddons:
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/cameohd_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/infui97_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/infui98_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/texturesbasehd_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/texturescivilianhd_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/ui97_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/ui98_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/water97_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/water98_manifest.txt
+  - https://raw.githubusercontent.com/VectorIV/ZHE_GLManifest/main/windows98_manifest.txt
+- ModName: ProGen 2.6 Directors Cut
+  ModLink: https://raw.githubusercontent.com/ZekeDlyoung/ProGen/main/ProGen26.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: forGenerals
+  ModLink: https://raw.githubusercontent.com/Frikamen/forGenerals/main/ZERO%20HOUR%20forGenerals_individual.yaml
+  ModPatches: []
+  ModAddons: []
+- ModName: Patch 1.2 Project
+  ModLink: https://raw.githubusercontent.com/Float1ngFree/Generals_1.20-Rebalanced-/main/GenLauncherData.yaml
+  ModPatches: []
+  ModAddons: []
+globalAddonsData: []
+originalGameAddons: []
+originalGamePatches: []
+AdvData:
+- ModName: Do you like GenLauncher?
+  ModLink: https://raw.githubusercontent.com/p0ls3r/GenLauncherModsData/master/AdvData.yaml
+  ImagesData:
+  - https://i.imgur.com/VbPCbDz.jpg
+  - https://i.imgur.com/3c1MySP.jpg
+  - https://i.imgur.com/VlLAoUo.jpg
+  - https://i.imgur.com/jCX5AjI.jpg
+LauncherVersion: 1.0.1.0
+DownloadLink: https://gen.insave.ovh/genlauncher/launcher/GenLauncher1010.zip
+VulkanReposData: https://raw.githubusercontent.com/qBeay/Vulkan/master/VulkanTest.yaml
+
