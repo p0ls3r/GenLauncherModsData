@@ -173,7 +173,7 @@ originalGameAddons: []
 originalGamePatches: []
 executables:
 - ModName: moddedExecutable
-  ModLink: https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/GenLauncherData.yaml
+  ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/modded.yaml
   DependencyName: ""
 - ModName: testExecutable
   ModLink: https://raw.githubusercontent.com/alanblack166/Rise-of-the-Reds/master/GenLauncherData.yaml
