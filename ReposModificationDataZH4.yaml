@@ -178,6 +178,9 @@ executables:
 - ModName: testExecutable
   ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/test.yaml
   DependencyName: "Rise Of The Reds"
+- ModName: testExecutable2
+  ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/test2.yaml
+  DependencyName: "Zero Hour Enhanced"
 AdvData:
 - ModName: Do you like GenLauncher?
   ModLink: https://raw.githubusercontent.com/p0ls3r/GenLauncherModsData/master/AdvData.yaml
