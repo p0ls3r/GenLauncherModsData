@@ -176,7 +176,7 @@ executables:
   ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/modded.yaml
   DependencyName: ""
 - ModName: testExecutable
-  ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/modded.yaml
+  ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/test.yaml
   DependencyName: "Rise Of The Reds"
 AdvData:
 - ModName: Do you like GenLauncher?
