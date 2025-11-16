@@ -175,6 +175,9 @@ executables:
 - ModName: moddedExecutable
   ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/modded.yaml
   DependencyName: ""
+- ModName: moddedExecutableTest
+  ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/modded2.yaml
+  DependencyName: ""
 - ModName: testExecutable
   ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/test.yaml
   DependencyName: "Rise Of The Reds"
