@@ -175,8 +175,11 @@ executables:
 - ModName: moddedExecutable
   ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/modded.yaml
   DependencyName: ""
-- ModName: moddedExecutableTest
+- ModName: moddedExecutable2
   ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/modded2.yaml
+  DependencyName: ""
+- ModName: moddedExecutable3
+  ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/modded3.yaml
   DependencyName: ""
 - ModName: testExecutable
   ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/test.yaml
