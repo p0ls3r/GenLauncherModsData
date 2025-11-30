@@ -175,18 +175,12 @@ executables:
 - ModName: moddedExecutable
   ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/modded.yaml
   DependencyName: ""
-- ModName: moddedExecutable2
-  ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/modded2.yaml
+- ModName: Generals Online
+  ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/generalsonline.yaml
   DependencyName: ""
-- ModName: moddedExecutable3
-  ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/modded3.yaml
+- ModName: Gentools
+  ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/gentools.yaml
   DependencyName: ""
-- ModName: testExecutable
-  ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/test.yaml
-  DependencyName: "Rise Of The Reds"
-- ModName: testExecutable2
-  ModLink: https://raw.githubusercontent.com/p0ls3r/moddedExe/master/test2.yaml
-  DependencyName: "Zero Hour Enhanced"
 AdvData:
 - ModName: Do you like GenLauncher?
   ModLink: https://raw.githubusercontent.com/p0ls3r/GenLauncherModsData/master/AdvData.yaml
