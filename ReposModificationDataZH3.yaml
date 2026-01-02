@@ -14,6 +14,7 @@ modDatas:
   - https://raw.githubusercontent.com/StanislavSaw/Vanilla-Campaigns-Remastered---Manifest-file/master/Vanilla-Campaigns-Remastered---Manifest-file.yaml
   - https://raw.githubusercontent.com/GerardoDMBX/EmpirePacificAllianceNoMech/main/GenLauncherData.yaml
   - https://raw.githubusercontent.com/GerardoDMBX/EPAUnoficialMusic/main/EPAUnoficialMusic.yaml
+  - https://raw.githubusercontent.com/alanblack166/rotr-18-button-controlbar-pro-manifest/main/GenLauncherData.yaml
 - ModName: Contra
   ModLink: https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR.yaml
   ModPatches:
