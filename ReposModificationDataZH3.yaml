@@ -15,6 +15,7 @@ modDatas:
   - https://raw.githubusercontent.com/GerardoDMBX/EmpirePacificAllianceNoMech/main/GenLauncherData.yaml
   - https://raw.githubusercontent.com/GerardoDMBX/EPAUnoficialMusic/main/EPAUnoficialMusic.yaml
   - https://raw.githubusercontent.com/alanblack166/rotr-18-button-controlbar-pro-manifest/main/GenLauncherData.yaml
+  - https://raw.githubusercontent.com/FlamerYeeter/ATP-BOSS-ADDON/main/GenLauncherData.yaml
 - ModName: Contra
   ModLink: https://raw.githubusercontent.com/ThePredatorBG/Contra/master/GL-CTR.yaml
   ModPatches:
