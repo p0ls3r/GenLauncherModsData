@@ -171,6 +171,10 @@ modDatas:
   ModLink: https://raw.githubusercontent.com/Float1ngFree/Generals_1.20-Rebalanced-/main/GenLauncherData.yaml
   ModPatches: []
   ModAddons: []
+- ModName: Improved AI
+  ModLink: https://raw.githubusercontent.com/CobraThiboK/Improved-AI/main/Improved%20AI.yaml
+  ModPatches: []
+  ModAddons: []
 globalAddonsData: []
 originalGameAddons: []
 originalGamePatches: []
